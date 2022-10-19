@@ -53,3 +53,5 @@ Make the appropriate adjustments to your VBA script to allow it to run on every 
 * Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with one click of a button.
 
 * Some assignments, like this one, contain a bonus. It is possible to achieve proficiency for this assignment without completing the bonus. The bonus is an opportunity to further develop your skills and be rewarded extra points for doing so.
+
+© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
