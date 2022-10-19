@@ -1,4 +1,4 @@
-# Module 2 Challenge: VBA-challenge
+# Module 2 Challenge: VBA Challenge
 
 ## Background
 
